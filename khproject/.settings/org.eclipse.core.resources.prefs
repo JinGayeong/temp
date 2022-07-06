@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/board/command/FileDownHandler.java=UTF-8
+encoding//src/main/java/board/command/FileService.java=UTF-8
+encoding//src/main/java/board/command/FileUpHandler.java=UTF-8
+encoding//src/main/java/board/command/ModifyBoardHandler.java=UTF-8
+encoding//src/main/java/board/command/WriteBoardHandler.java=UTF-8
+encoding//src/main/java/board/service/FileService.java=UTF-8
+encoding/<project>=UTF-8
